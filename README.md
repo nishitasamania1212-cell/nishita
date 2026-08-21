@@ -1,8 +1,7 @@
-# nishita
-Frontend Developer | Learning JavaScript &amp; Python | Building AI-powered websites | Open to freelance projects
+
 # Nishita
 
-### Frontend Developer | Machine Learning Enthusiast 
+### Frontend Developer | Learning JavaScript &amp; Python | Building AI-powered websites | Open to freelance projects
 
 I'm a passionate developer interested in building **modern web applications** and exploring **Machine Learning & Artificial Intelligence**.
 
