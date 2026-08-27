@@ -17,32 +17,27 @@ I'm a passionate developer interested in building **modern web applications** an
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend Development
-
-* HTML
-* CSS
-* JavaScript
-* React.js
-* Responsive Web Design
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-4285F4?style=for-the-badge&logo=responsive&logoColor=white)
 
 ### 🤖 Machine Learning & AI
-
-* Python
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-learn
-* Machine Learning Algorithms
-* Data Preprocessing
-* Model Training & Evaluation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102A43?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-4CAF50?style=for-the-badge&logo=databricks&logoColor=white)
+![Model Training](https://img.shields.io/badge/Model%20Training-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### 🔧 Tools & Technologies
-
-* Git
-* GitHub
-* VS Code
-* Jupyter Notebook
-
----
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## 📌 What I'm Learning
 
