@@ -31,7 +31,7 @@ I'm a passionate developer interested in building **modern web applications** an
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102A43?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-4CAF50?style=for-the-badge&logo=databricks&logoColor=white)
-![Model Training](https://img.shields.io/badge/Model%20Training-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 
 ### 🔧 Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
