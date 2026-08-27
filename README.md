@@ -56,27 +56,30 @@ AI-powered Websites & Applications
 ```
 
 ---
-
 ## 🚀 Projects
 
-### 🌐 Frontend Projects
+### 💳 Financial Transaction Fraud Detection using Machine Learning
 
-Building responsive and interactive websites using **HTML, CSS, JavaScript and React**.
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
 
-### 🤖 Machine Learning Projects
+- Built a Machine Learning model to identify potentially fraudulent financial transactions.
+- Performed data preprocessing and Exploratory Data Analysis (EDA) to understand transaction patterns and fraud-related features.
+- Prepared data and performed feature selection before model training.
+- Implemented and compared Logistic Regression, Random Forest, and Gradient Boosting algorithms.
+- Evaluated models using Accuracy, Precision, Recall, and F1-Score.
+- Focused on improving fraud detection while maintaining a balance between Precision and Recall.
 
-Working on ML projects involving:
 
-* Data preprocessing
-* Feature engineering
-* Classification
-* Regression
-* Model evaluation
+### ✨ GlowSense AI | AI-Powered Skincare Platform
 
-### 🧠 AI-Powered Web Applications
+**Tech Stack:** React, TypeScript, Firebase, Firestore, Tailwind CSS, Framer Motion
 
-Exploring ways to combine **Frontend Development + Machine Learning/AI** to create intelligent web experiences.
-
+- Developed an AI-powered skincare platform with personalized skin analysis and skincare recommendations.
+- Implemented Firebase Authentication with email/password signup and login.
+- Integrated Cloud Firestore for storing user profiles and account data.
+- Built responsive authentication interfaces using React, TypeScript, Tailwind CSS, and Framer Motion.
+- Added form validation, password-strength detection, and error handling.
+- Implemented forgot-password, Google/Apple Sign-in, protected routes, logout, and Firebase token-based session handling.
 ---
 
 ## 📊 GitHub Stats
